@@ -22,7 +22,7 @@ function App() {
   return (
     <>
       <main className="app">
-        <h1>Users</h1>
+        <h1>Brugere</h1>
 
         <section className="grid">
           {users.map((user) => (
